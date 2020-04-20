@@ -14,6 +14,7 @@
 		55398AEC244E36AB0066C4BE /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 55398AEA244E36AB0066C4BE /* LaunchScreen.storyboard */; };
 		55398AEF244E36AB0066C4BE /* main.m in Sources */ = {isa = PBXBuildFile; fileRef = 55398AEE244E36AB0066C4BE /* main.m */; };
 		55398AF8244E461D0066C4BE /* PhotosViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 55398AF7244E461D0066C4BE /* PhotosViewController.swift */; };
+		55398AFA244E468E0066C4BE /* PhotoDetailViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 55398AF9244E468E0066C4BE /* PhotoDetailViewController.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -29,6 +30,7 @@
 		55398AEE244E36AB0066C4BE /* main.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = main.m; sourceTree = "<group>"; };
 		55398AF6244E461D0066C4BE /* AstronomyObjc-Bridging-Header.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = "AstronomyObjc-Bridging-Header.h"; sourceTree = "<group>"; };
 		55398AF7244E461D0066C4BE /* PhotosViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PhotosViewController.swift; sourceTree = "<group>"; };
+		55398AF9244E468E0066C4BE /* PhotoDetailViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PhotoDetailViewController.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -80,6 +82,7 @@
 			children = (
 				55398AF7244E461D0066C4BE /* PhotosViewController.swift */,
 				55398AF6244E461D0066C4BE /* AstronomyObjc-Bridging-Header.h */,
+				55398AF9244E468E0066C4BE /* PhotoDetailViewController.swift */,
 			);
 			path = "View Controllers";
 			sourceTree = "<group>";
@@ -158,6 +161,7 @@
 				55398ADE244E36A70066C4BE /* AppDelegate.m in Sources */,
 				55398AF8244E461D0066C4BE /* PhotosViewController.swift in Sources */,
 				55398AEF244E36AB0066C4BE /* main.m in Sources */,
+				55398AFA244E468E0066C4BE /* PhotoDetailViewController.swift in Sources */,
 				55398AE1244E36A70066C4BE /* SceneDelegate.m in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
